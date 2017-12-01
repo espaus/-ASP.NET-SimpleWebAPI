@@ -1,0 +1,11 @@
+D:\ASP.NET\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.deps.json
+D:\ASP.NET\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.json
+D:\ASP.NET\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.runtimeconfig.dev.json
+D:\ASP.NET\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.dll
+D:\ASP.NET\TodoApi\TodoApi\bin\Debug\netcoreapp2.0\TodoApi.pdb
+D:\ASP.NET\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csprojResolveAssemblyReference.cache
+D:\ASP.NET\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.csproj.CoreCompileInputs.cache
+D:\ASP.NET\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfoInputs.cache
+D:\ASP.NET\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.AssemblyInfo.cs
+D:\ASP.NET\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.dll
+D:\ASP.NET\TodoApi\TodoApi\obj\Debug\netcoreapp2.0\TodoApi.pdb
